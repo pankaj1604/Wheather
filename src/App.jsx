@@ -1,5 +1,5 @@
 import React from 'react'
-import Wheat from './Components/Wheat'
+import Wheat from './Components/Weather'
 
 
 const App = () => {
